@@ -1,6 +1,6 @@
 # 🚀 Meu Portfólio de Projetos Kotlin
 
-Bem-vindo ao meu portfólio de **Kotlin**! Este repositório contém uma coleção de projetos que desenvolvi utilizando Kotlin, incluindo aplicações Android, APIs e muito mais. Todos os projetos foram desenvolvidos com foco em boas práticas, código limpo e interfaces intuitivas.
+Bem-vindo ao meu portfólio de **Kotlin**! Este repositório contém uma coleção de projetos que desenvolvi na linguagem Kotlin, incluindo aplicações Android, APIs e muito mais. Todos os projetos foram desenvolvidos com foco em boas práticas, código limpo e interfaces intuitivas.
 
 ## 📚 Sobre Mim
 
